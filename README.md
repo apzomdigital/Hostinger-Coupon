@@ -126,7 +126,7 @@ Sale and coupon percentages don't add up: "75% off" plus "20% off" isn't 95% off
 1. **Check for an existing discount.** A "referral discount applied" line or another code under *Coupon applied* means the order already has one, and Hostinger allows one per order.
 2. **Check the spelling.** It's `HARSHILBAROT`: twelve letters, no spaces.
 3. **Check it's a new purchase.** Hostinger excludes renewals and products you already own.
-4. **Check the product and billing period** you actually intend to buy.
+4. **Check the billing period.** On 15 Oct 2026 the code was rejected on a 1-month term ("Coupon is not applicable to the selected product(s)") but accepted on 12, 24 and 48 months.
 5. **Check your storefront and currency.** Regional prices differ.
 6. **Allow for change.** Promotions can end or change after 15 Oct 2026.
 7. **Contact Hostinger support** if an eligible new plan still won't accept it.
