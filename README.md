@@ -167,6 +167,7 @@ I've written about this coupon for different kinds of readers:
 
 - [Substack issue: the price that actually matters](https://harshilbarot.substack.com/p/hostinger-coupon-code-2026): what 20% off the first term saves over five years, plus my 5-point buying checklist.
 - [Google Sites quick-reference hub](https://sites.google.com/view/hostinger-coupon-guide): the steps, the cost flow and troubleshooting on one visual page.
+- [Notion reference page](https://harshilbarot.notion.site/Hostinger-Coupon-Code-2026-Reference-Guide-Price-Checklist-3fb056b1b11080eab472cfe3d5c42a52): a test log of every checked cart, an error-to-fix table and a price worksheet you can duplicate.
 - [Medium walkthrough](https://medium.com/@imharshilbarot/hostinger-coupon-code-2026-harshilbarot-how-to-apply-it-and-check-the-real-price-2db18377d33c): a plain-language, step-by-step guide.
 - [DEV.to technical guide](https://dev.to/harshilbarot/hostinger-coupon-code-2026-how-to-use-harshilbarot-and-verify-the-real-price-4ed4): how the referral flow behaves in the cart, and a debugging checklist.
 - [LinkedIn article](https://www.linkedin.com/pulse/hostinger-coupon-code-2026-how-use-harshilbarot-check-harshil-barot-54ldf/): a buying framework for business owners and teams.
