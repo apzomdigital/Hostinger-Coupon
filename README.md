@@ -42,6 +42,7 @@ HARSHILBAROT
 - [Coupon not working?](#coupon-not-working)
 - [FAQs](#faqs)
 - [My Hostinger experience](#my-hostinger-experience)
+- [More Hostinger coupon resources](#more-hostinger-coupon-resources)
 
 ## How to use HARSHILBAROT
 
@@ -159,6 +160,17 @@ The cart advertises 30 days. Read Hostinger's refund policy for exclusions, such
 I've used Hostinger personally for about seven years, and my current editorial rating is **4.8/5**. That's my opinion from long-term use, not an average of customer reviews or a performance guarantee.
 
 **[Read my complete Hostinger Coupon Code guide](https://harshilbarot.com/hostinger-coupon-code/)** for the fuller account: plan-by-plan advice, who should skip the deal, and how I judge renewals.
+
+## More Hostinger coupon resources
+
+I've written about this coupon for different kinds of readers:
+
+- [Substack issue: the price that actually matters](https://harshilbarot.substack.com/p/hostinger-coupon-code-2026): what 20% off the first term saves over five years, plus my 5-point buying checklist.
+- [Google Sites quick-reference hub](https://sites.google.com/view/hostinger-coupon-guide): the steps, the cost flow and troubleshooting on one visual page.
+- [Medium walkthrough](https://medium.com/@imharshilbarot/hostinger-coupon-code-2026-harshilbarot-how-to-apply-it-and-check-the-real-price-2db18377d33c): a plain-language, step-by-step guide.
+- [DEV.to technical guide](https://dev.to/harshilbarot/hostinger-coupon-code-2026-how-to-use-harshilbarot-and-verify-the-real-price-4ed4): how the referral flow behaves in the cart, and a debugging checklist.
+- [LinkedIn article](https://www.linkedin.com/pulse/hostinger-coupon-code-2026-how-use-harshilbarot-check-harshil-barot-54ldf/): a buying framework for business owners and teams.
+- [Quora answer](https://www.quora.com/What-are-the-best-Hostinger-coupon-codes-in-2026/answer/Harshil-Barot-2): the short question-and-answer version.
 
 ---
 
